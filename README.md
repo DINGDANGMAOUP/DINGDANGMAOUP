@@ -28,3 +28,12 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=DINGDANGMAOUP&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINGDANGMAOUP&layout=compact" alt="languages" height="165">
     </p>
 </a>
+<br>
+<h3 align="center">主页访问量</h3>
+
+<h3 align="center">
+    
+![](https://profile-counter.glitch.me/dingdangmaoup/count.svg)
+    
+</h3>
+
