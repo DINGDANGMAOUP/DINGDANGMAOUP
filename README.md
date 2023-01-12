@@ -29,11 +29,11 @@ Here are some ideas to get you started:
     </p>
 </a>
 <br>
-<h3 align="center">主页访问量</h3>
 
-<h3 align="center">
-    
-![](https://profile-counter.glitch.me/dingdangmaoup/count.svg)
-    
-</h3>
+## Visitor count
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/dingdangmaoup/count.svg" />
+</p>
+
 
