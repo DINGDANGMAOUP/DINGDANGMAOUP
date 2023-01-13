@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <a align="center" href="#">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DINGDANGMAOUP&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINGDANGMAOUP&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DINGDANGMAOUP&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DINGDANGMAOUP&layout=compact" alt="languages" height="165">
     </p>
 </a>
 <br>
