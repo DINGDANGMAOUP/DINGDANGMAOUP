@@ -1,5 +1,5 @@
 <!-- 动态波浪分隔符（使用在线SVG） -->
-<img src="./wave.svg" width="100%" height="150">
+<img src="./wave.svg" width="100%">
   
 <!-- 主内容容器 -->
 <div align="center">
