@@ -22,7 +22,7 @@
   <h2>🛠 技术栈</h2>
   <!-- 动态技能图标 -->
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,react,nodejs,py,rust,aws,docker,kubernetes,postgres,redis,grafana&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,nextjs,flutter,kotlin,java,react,nodejs,py,rust,aws,docker,kubernetes,postgres,redis,grafana&theme=dark" />
   </div>
 
   <!-- 动态提交统计 -->
