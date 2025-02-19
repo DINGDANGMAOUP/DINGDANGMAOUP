@@ -33,16 +33,13 @@
   <!-- 联系方式浮动卡片 -->
   <h2>📬 联系我</h2>
   <div align="center">
-    <a href="https://t.me/yourtelegram" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
     <a href="mailto:dingdangmaoup@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
     </a>
   </div>
 
   <!-- 动态访客计数 -->
-  <img src="https://komarev.com/ghpvc/?username=DINGDANGMAOUP&label=Profile+Views&color=blue&style=flat" alt="访客计数" />
+  <img src="https://komarev.com/ghpvc/?username=DINGDANGMAOUP&label=Profile+Views&color=blue" alt="访客计数" />
 </div>
 
 <!-- 替代粒子效果（使用GitHub支持的动态图） -->
