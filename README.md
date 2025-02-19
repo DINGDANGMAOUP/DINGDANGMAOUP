@@ -1,8 +1,9 @@
 <!-- 动态波浪分隔符（使用在线SVG） -->
-<img src="https://cdn.jsdelivr.net/gh/dillonzq/LoveIt@main/exampleSite/static/svg/wave.svg" width="100%" height="150">
-
+  <img src="https://github.com/DINGDANGMAOUP/DINGDANGMAOUP/blob/master/wave.svg" width="100%" height="150">
 <!-- 主内容容器 -->
 <div align="center">
+
+  
   <!-- 动态旋转头像（使用CSS动画） -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Full+Stack+Dev;From+China" alt="动态标题">
 
