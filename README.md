@@ -1,46 +1,70 @@
-<!-- 动态波浪分隔符（使用在线SVG） -->
-<img src="./wave.svg" width="100%">
-  
-<!-- 主内容容器 -->
 <div align="center">
 
-  
-  <!-- 动态旋转头像（使用CSS动画） -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Full+Stack+Dev;From+China" alt="动态标题">
+# Hi there, I'm DINGDANGMAOUP 👋
 
-  <!-- 3D头像效果（使用在线生成） -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DINGDANGMAOUP&theme=onedark&row=1&column=7" alt="荣誉墙" width="100%">
+### Full Stack Developer | Cloud Architecture Enthusiast | Open Source Contributor
 
-  <!-- 动态背景替代方案（使用SVG动画） -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20To%20My%20Profile&width=1500&height=200" alt="header"/>
-
-  <!-- 动态统计卡片 -->
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DINGDANGMAOUP&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINGDANGMAOUP&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  </div>
-
-  <!-- 技能矩阵 -->
-  <h2>🛠 技术栈</h2>
-  <!-- 动态技能图标 -->
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,nextjs,flutter,kotlin,java,react,nodejs,py,rust,aws,docker,kubernetes,postgres,redis,grafana&theme=dark" />
-  </div>
-
-  <!-- 动态提交统计 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DINGDANGMAOUP&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%">
-
-  <!-- 联系方式浮动卡片 -->
-  <h2>📬 联系我</h2>
-  <div align="center">
-    <a href="mailto:dingdangmaoup@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-    </a>
-  </div>
-
-  <!-- 动态访客计数 -->
-  <img src="https://komarev.com/ghpvc/?username=DINGDANGMAOUP&label=Profile+Views&color=blue" alt="访客计数" />
 </div>
 
-<!-- 替代粒子效果（使用GitHub支持的动态图） -->
+## 🚀 About Me
+
+I'm a passionate full stack developer specializing in building scalable, high-performance applications. With expertise spanning from backend microservices to modern frontend frameworks and cloud-native architectures, I focus on creating robust solutions that solve real-world problems.
+
+**What I do:**
+- 🏗️ Design and implement microservices architectures with **Spring Boot** and **Kubernetes**
+- ⚡ Build responsive web applications using **Next.js** and **React**
+- 📱 Develop cross-platform mobile apps with **Flutter**
+- ☁️ Deploy and manage cloud infrastructure on **AWS** with containerization
+- 🔧 Optimize system performance and reliability with **Redis**, **PostgreSQL**, and monitoring tools
+
+**Currently exploring:**
+- 🦀 Systems programming with **Rust**
+- 🤖 Building intelligent applications with modern AI frameworks
+- 📊 Advanced observability and monitoring with **Grafana**
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=spring,nextjs,flutter,kotlin,java,react,nodejs,py,rust,aws,docker,kubernetes,postgres,redis,grafana&theme=dark" />
+
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DINGDANGMAOUP&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DINGDANGMAOUP&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DINGDANGMAOUP&theme=tokyonight&utcOffset=8" width="49%" />
+
+</div>
+
+## 🎨 Contribution Visualization
+
+<div align="center">
+
 ![](https://raw.githubusercontent.com/DINGDANGMAOUP/DINGDANGMAOUP/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DINGDANGMAOUP/DINGDANGMAOUP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DINGDANGMAOUP/DINGDANGMAOUP/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DINGDANGMAOUP/DINGDANGMAOUP/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:dingdangmaoup@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=DINGDANGMAOUP&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
